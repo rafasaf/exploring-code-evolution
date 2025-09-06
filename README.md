@@ -81,9 +81,25 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: <https://github.com/kdn251/interviews>
+2. Gráfico selecionado: <![alt text](image.png)>
+3. Explicação:<
+
+O gráfico mostra a quantidade de comentários de linha e comentários de bloco no código, de 2020 até 2025.
+
+Comentários de linha foram 4.307, estáveis em todos os anos e comentários de bloco 294, também constantes.Ou seja, o projeto não teve variação nesse aspecto durante os últimos 5 anos.
+
+Boas práticas observadas
+
+A quantidade de comentários em relação às linhas de código sugere que há documentação interna suficiente, mas não exagerada. Aproximadamente 1 comentário a cada 5 linhas de código. Manter a mesma quantidade ao longo do tempo pode indicar que o projeto está estável, sem grandes refatorações que alterem a estrutura do código.
+
+Pontos de atenção que foram observadas
+
+Ausência de evolução: é curioso que o número de comentários nunca mudou em 5 anos. Isso pode indicar que o projeto está congelado ou com poucas alterações, ou o processo de documentação não acompanhou possíveis evoluções. Além disso, pode indicar que existem comentários de bloco escassos: apenas 294 em todo o código. Sugerondo que a o desenvolvedor prefere comentários curtos e diretos.
+
+Hipóteses em relação ao resultado:
+
+O repositório pode ter passado por um grande congelamento de features desde 2020, considerando que o relatório gerado pelo GitEvo captura apenas a última versão de cada arquivo por ano; se não houve mudanças estruturais, os valores permanecem idênticos.
 
 
 
